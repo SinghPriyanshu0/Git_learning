@@ -1,2 +1,5 @@
-print("hi sir this side priyanshu")
-print("hello buddy I am doing somehting wait for a min please ")
+def main():
+    print("Hello from the audio branch!")
+
+if __name__ == "__main__":
+    main()
