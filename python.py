@@ -1,5 +1,1 @@
-def main():
-    print("Hello from the message branch!")
-
-if __name__ == "__main__":
-    main()
+print("hi i am priyanshu from message branch")
