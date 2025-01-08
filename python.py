@@ -1,5 +1,5 @@
-def greet():
-    print("Hello from the new audio  branch!")
+def main():
+    print("Hello from the audio branch!")
 
 if __name__ == "__main__":
-    greet()
+    main()
